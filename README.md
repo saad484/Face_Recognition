@@ -16,6 +16,9 @@ cvzone: A Python library providing various utilities, including the FaceDetector
 Potential Extensions:
 
 Web Interface: Develop a web-based interface to control and monitor the face recognition system remotely.
+
 Cloud Integration: Integrate the system with cloud platforms for data storage, analytics, and access control.
+
 Voice Feedback: Implement voice feedback or alerts for face recognition results using text-to-speech technology.
+
 Face Recognition on ESP32: Explore the possibility of performing face recognition directly on the ESP32 microcontroller using lightweight models and algorithms.
