@@ -13,7 +13,8 @@ The ESP32 code receives signals from the Python program over serial communicatio
 
 OpenCV: A computer vision library used for face detection and recognition in the Python code.
 cvzone: A Python library providing various utilities, including the FaceDetector and SerialData modules for face detection and serial communication, respectively.
-Potential Extensions:
+
+### Potential Extensions:
 
 Web Interface: Develop a web-based interface to control and monitor the face recognition system remotely.
 
